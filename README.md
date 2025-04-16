@@ -1,6 +1,6 @@
 # EMMERSEV
 
-**EMMERSEV** is a Shiny web dashboard designed to analyze, visualize, and explore environmental microbial metatranscriptomics datasets from Canadian freshwater ecosystems. It supports biogeochemical modelling within the National Water Quality Modelling Framework (NWQMF) at Environment and Climate Change Canada (ECCC).
+**EMMERSEV** is a [Shiny](https://shiny.posit.co/) web dashboard designed to analyze, visualize, and explore environmental microbial metatranscriptomics datasets from Canadian freshwater ecosystems. It supports biogeochemical modelling within the National Water Quality Modelling Framework (NWQMF) at Environment and Climate Change Canada (ECCC).
 
 🌊 **EMMERSEV**: *Environmental Microbial MEtatranscriptomic Research for Statistical Exploration and Visualization*
 
