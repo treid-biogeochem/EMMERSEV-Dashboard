@@ -55,22 +55,22 @@ Samples with `lat`/`lon` metadata are mapped on an interactive leaflet map of Ca
 Folder Structure
 
 EMMERSEV/
-│
-├── app.R
-├── README.md
-├── DESCRIPTION (optional)
-│
-├── ui/
-│   └── ui_main.R
-│
-├── server/
-│   ├── server_main.R
-│   ├── upload_server.R
-│   ├── analysis_server.R
-│   ├── pathway_server.R
-│   └── map_server.R
-│
-└── www/          # For pathview image output (optional)
+- │
+- ├── app.R
+- ├── README.md
+- ├── DESCRIPTION (optional)
+- │
+- ├── ui/
+- │   └── ui_main.R
+- │
+- ├── server/
+- │   ├── server_main.R
+- │   ├── upload_server.R
+- │   ├── analysis_server.R
+- │   ├── pathway_server.R
+- │   └── map_server.R
+- │
+- └── www/          # For pathview image output (optional)
 
 
 Run the app:
