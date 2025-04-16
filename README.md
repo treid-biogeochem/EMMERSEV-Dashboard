@@ -52,13 +52,26 @@ Samples with `lat`/`lon` metadata are mapped on an interactive leaflet map of Ca
 
 ## 📦 Running Locally
 
-Install required packages:
-```r
-install.packages(c("shiny", "shinydashboard", "leaflet", "DT", "plotly", "vegan", "readr", "ggplot2"))
-if (!requireNamespace("BiocManager", quietly = TRUE))
-    install.packages("BiocManager")
-BiocManager::install("pathview")
-```
+Folder Structure
+
+EMMERSEV/
+│
+├── app.R
+├── README.md
+├── DESCRIPTION (optional)
+│
+├── ui/
+│   └── ui_main.R
+│
+├── server/
+│   ├── server_main.R
+│   ├── upload_server.R
+│   ├── analysis_server.R
+│   ├── pathway_server.R
+│   └── map_server.R
+│
+└── www/          # For pathview image output (optional)
+
 
 Run the app:
 ```r
