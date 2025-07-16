@@ -4,7 +4,7 @@
 
 🌊 **EMMERSEV**: *Environmental Microbial MEtatranscriptomic Research for Statistical Exploration and Visualization*
 
-![ChatGPT Image Apr 16, 2025, 09_45_53 AM](https://github.com/user-attachments/assets/a8d8a3e8-45dd-4153-a7ba-ed7ebaab29ca)
+<img width="1920" height="1080" alt="EMMERSEV_V3 screenshot" src="https://github.com/user-attachments/assets/15d6df06-04b4-4f09-9529-a9b35ff469af" />
 
 ## ✨ Features
 
