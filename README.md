@@ -4,7 +4,7 @@
 
 🌊 **EMMERSEV**: *Environmental Microbial MEtatranscriptomic Research for Statistical Exploration and Visualization*
 
-<img width="1920" height="1080" alt="EMMERSEV_V3 screenshot" src="https://github.com/user-attachments/assets/15d6df06-04b4-4f09-9529-a9b35ff469af" />
+<img width="1920" height="1031" alt="EMMERSEV_V3 screenshot" src="https://github.com/user-attachments/assets/8f5b905c-cffb-4e47-826d-4d55b4870d82" />
 
 ## ✨ Features
 
